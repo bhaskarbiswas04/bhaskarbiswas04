@@ -1,8 +1,6 @@
-# BHASKAR BISWAS
-### Software Engineer | 
 
 ```bash
-bhaskar@developer:~$ whoami
+BHASKAR BISWAS @Software Engineer:~$ whoami
 ```
 
 ### Full Stack MERN Developer
