@@ -99,10 +99,6 @@ I develop end-to-end web applications with an emphasis on clean architecture, ma
 
 ## 04. GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhaskarbiswas04&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarbiswas04&layout=compact&hide_border=true&theme=github_dark)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhaskarbiswas04&theme=github-dark-blue&hide_border=true)
 
 ---
